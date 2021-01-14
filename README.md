@@ -28,3 +28,6 @@ Research Paper Link
 http://matjournals.in/index.php/JoWDWD/article/view/5239
 
 (credit card fraud paper.pdf ---> Our Research paper that is published in Mat Journals)
+
+
+creditcard-20200506T164815Z-001.zip  ---> is ZIP FILE TO DOWNLOAD THE FRONT END TO THE PROJECT
