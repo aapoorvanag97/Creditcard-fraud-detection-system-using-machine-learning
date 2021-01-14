@@ -26,3 +26,5 @@ process, the accuracy is found to be 99.99%.
 
 Research Paper Link
 http://matjournals.in/index.php/JoWDWD/article/view/5239
+
+(credit card fraud paper.pdf ---> Our Research paper that is published in Mat Journals)
